@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Полина Щу](https://up.htmlacademy.ru/javascript/9/user/133862).
-* Наставник: `Денис Верхотуров` (https://htmlacademy.ru/profile/id56756).
+* Наставник: [Денис Верхотуров](https://htmlacademy.ru/profile/id56756).
 
 ---
 
